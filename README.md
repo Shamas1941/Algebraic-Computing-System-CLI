@@ -9,7 +9,7 @@
 ## Repository Structure
 
 * **`Git/`** — Contains Git and GitHub notes.
-* **`Math/College-Algebra/`** — Contains College Algebra implementations using Python.
+* **`Math/`** — Contains implementation of collage mathematics using Python.
 
 ---
 
