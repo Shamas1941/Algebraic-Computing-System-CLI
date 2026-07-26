@@ -8,12 +8,12 @@
 
 ## Repository Structure
 
-* **`Git/`** — Contains Git and GitHub notes, workflows, and practice exercises.
-* **`Math/College-Algebra/`** — Contains College Algebra notes and practical implementations using Python.
+* **`Git/`** — Contains Git and GitHub notes.
+* **`Math/College-Algebra/`** — Contains College Algebra implementations using Python.
 
 ---
 
 ## Credits & Resources
 
-* **Git:** freeCodeCamp, LogicBase Labs, LearnThatStack
-* **College Algebra:** freeCodeCamp
+* **Git:** (freeCodeCamp, LogicBase Labs, LearnThatStack)
+* **College Algebra:** (freeCodeCamp)
