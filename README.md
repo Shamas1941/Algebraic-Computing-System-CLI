@@ -5,3 +5,7 @@
 ## Repository structure
 * **Git/** Contains Git and Github notes
 * **Math/Collage Algebra/** Contains Collage Algebra with Python
+---
+### Credit
+* **Git** (freecodecamp & LogicBase Labs, LearnThatStack)
+* **Collage Algebra** (freecodecamp)
