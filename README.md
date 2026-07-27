@@ -2,7 +2,7 @@
 
 ---
 
-> Contains Python programming methods on how to perform college algebra, linear algebra, precalculus, and calculus topics. And a Calculator to implement all these mathematics
+> Contains Python programming methods on how to perform college algebra, linear algebra, precalculus, and calculus topics. With a Calculator to implement all these mathematical concepts
 
 ---
 
