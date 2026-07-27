@@ -2,14 +2,14 @@
 
 ---
 
-> Contains Python programming methods on how to perform collage algebra, linear algebra, precalculus, and calculus topics. And a Calculator to impliment all these mathematics
+> Contains Python programming methods on how to perform college algebra, linear algebra, precalculus, and calculus topics. And a Calculator to implement all these mathematics
 
 ---
 
 ## Repository Structure
 
-**'Collage_Algebra.ipynb'** Contains Python Implimentation on Collage Algebra
-**'Calculator.ipynb'** Contains a calculator that allows calculation of the mathematical concepts (Need to be in the same directory as the math files)
+* **'College_Algebra.ipynb'** Contains Python Implementation on College Algebra
+* **'Calculator.ipynb'** Contains a calculator that allows calculation of the mathematical concepts (Need to be in the same directory as the math files)
 
 ---
 
