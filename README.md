@@ -8,12 +8,10 @@
 
 ## Repository Structure
 
-* **`Git/`** — Contains Git and GitHub notes.
-* **`Math/`** — Contains implementation of collage mathematics using Python.
+**'Collage Algebra.ipynb'** Contains Python Implimentation on Collage Algebra
 
 ---
 
 ## Credits & Resources
 
-* **Git:** (freeCodeCamp, LogicBase Labs, LearnThatStack)
 * **College Algebra:** (freeCodeCamp)
