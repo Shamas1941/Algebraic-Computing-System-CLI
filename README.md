@@ -8,7 +8,8 @@
 
 ## Repository Structure
 
-**'Collage Algebra.ipynb'** Contains Python Implimentation on Collage Algebra
+**'Collage_Algebra.ipynb'** Contains Python Implimentation on Collage Algebra
+**'Calculator.ipynb'** Contains a calculator that allows calculation of the mathematical concepts (Need to be in the same directory as the math files)
 
 ---
 
