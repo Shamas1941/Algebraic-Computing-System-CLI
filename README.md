@@ -8,8 +8,8 @@
 
 ## Repository Structure
 
-* **'College_Algebra.ipynb'** Contains Python Implementation on College Algebra
-* **'Calculator.ipynb'** Contains a calculator that allows calculation of the mathematical concepts (Need to be in the same directory as the math files)
+* **`math_modules/Calculator.ipynb`** — Contains the main calculator interface to implement the mathematical concepts.
+* **`math_modules/College_Algebra.ipynb`** — Contains Python implementations for college algebra topics.
 
 ---
 
